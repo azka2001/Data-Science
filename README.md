@@ -1,8 +1,11 @@
 # Data-Science
+BYTEWISE DATA SCIENCE FELLOWSHIP
 DATA SCIENCE WEEK 1
+
 AZKA AHMAD
 	TASK 1 – 30TH AUGUST  
 	WHAT IS DATA SCIENCE?
+
 NEED FOR DATA SCIENCE
 -	Self-driving cars, needed in airline systems such as having proper data of weather to predict whether flights will be leaving so passenger’s time is saved, learning passenger preferences and using that to give promotional offers etc
 -	Companies making use of this: FedEx
@@ -57,7 +60,9 @@ Tools: R, python, MATLAB, SAS
 -	Communicate the result to concerned people with a presentation 
 	DEMAND FOR DATA SCIENTISTS?
 -	Required in gaming, healthcare, finance, marketing, tech where the industry is greatly consumer based 
+
 	TASK 2 - 31ST AUGUST
+
 BASICS OF PROBABILITY 
 -	Probability: Measure of the likelihood of an event. 
 -	You need to find the entire sample space to find the probability which is:
@@ -77,12 +82,16 @@ BASICS OF PROBABILITY
 -	For dependent events, we use conditional probability : p(a and b) = p(a) x p(b/a) <- probability of b given a
 -	Eg, if we remove one card, we’re left with 51 in the deck, so the sample space for p(b/a) will be from 51
 -	In machine learning, via probability a model will be able to predict where a new data point will belong in classification
+
 	TASK 3 - 1ST SEPTEMBER
+
 COMBINATORICS
 -	This focuses upon the combination of objects that belong to a countable set and may have constraints surrounding them as well. 
 -	Addition, Subtraction and Inclusion Exclusion fall under major categories through which combinatorics can be done. Sub categories which stem from these include the use of permutations and combinations 
 -	A further example can be as to how to arrange a line of people at a bank so that people borrowing and depositing money can easily be catered to without the bank running out of money
+
 	TASK 4 - 2ND SEPTEMBER
+
 •	LEARNING PYTHON
 HELLO, WORLD!
 -	Print function,
@@ -104,3 +113,7 @@ Ways to declare a list:
 1.	Mylist = [0,10,20]
 2.	You can perform multiple functions on lists such as append(value) which adds on a value to the list
 
+DATA SCIENCE WEEK 2
+
+TASK 5 - 5TH SEPTEMBER 
+THE BASICS OF PYTHON
