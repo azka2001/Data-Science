@@ -1,1 +1,15 @@
+We create a project folder in python with the scrapy package imported into it and an
+associated virtual environment created that allows us to work only within that so that
+the rest of our pc is not affected by the work done in the folder. 
 
+Upon the folder creation with the associated virenv made, we can see the following default
+folders already created:
+- __init__.py
+
+This is required for the project initlization
+- items.py
+- middlewares.py
+
+so you can work through proxies during data extraction
+- pipelines.py
+- settings.py
